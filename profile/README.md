@@ -1,6 +1,8 @@
-## 
+## LukaProject
 
-Here is the org for LukaProject, an IM project during 2 years ago. Now I want to share some useful projects and rewrite the LukaIM backend.
+Hi everyone.
+
+This org begin from an IM project since 2020. Now sharing some useful projects and rewrite the LukaIM backend.
 
 <!--
 
